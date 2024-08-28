@@ -1,6 +1,6 @@
 ...
 ALLOWED_HOSTS = ["localhost", "127.0.0.1"]
-ALLOWED_HOSTS = ["localhost", "127.0.0.1", "ferdinand-bonfilio-mentalhealthtracker.pbp.cs.ui.ac.id"]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "ferdinand-bonfilio-mentalhealthtracker2.pbp.cs.ui.ac.id"]
 ...
 
 """
